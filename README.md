@@ -16,7 +16,7 @@ The main dependencies for running the code are:
 * Matplotlib
  
 ## Experimental data
-* Access to the computed simulations or synthetic/empirical features for running the code is available upon reasonable request. Data from the lateral-interception task is available on Zenodo.
+* Access to the computed simulations or synthetic/empirical features for running the code is available upon reasonable request. Data from the lateral-interception task is available on Zenodo https://doi.org/10.5281/zenodo.16487740.
 
 ## Reference
 
